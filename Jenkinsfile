@@ -1,4 +1,4 @@
-node('jellyfish') {
+node('master') {
 
     step([$class: 'WsCleanup'])
 
